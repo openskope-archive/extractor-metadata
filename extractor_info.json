@@ -1,0 +1,21 @@
+{
+  "@context": "http://clowder.ncsa.illinois.edu/contexts/extractors.jsonld",
+  "name": "paleocar extractor",
+  "version": "2.0",
+  "description": "Hope it works?",
+  "author": "Rui An",
+  "contributors": [],
+  "contexts": [],
+  "repository": {
+    "repType": "git",
+    "repUrl": "https://opensource.ncsa.illinois.edu/stash/scm/cats/pyclowder.git"
+  },
+  "process": {
+    "metadata": [
+	"added"
+    ]
+  },
+  "external_services": [],
+  "dependencies": [],
+  "bibtex": []
+}
